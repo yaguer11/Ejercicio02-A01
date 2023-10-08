@@ -1,0 +1,11 @@
+{
+  "name": "eje2-tp1",
+  "version": "1.0.0",
+  "description": "Pradigmas de programación",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "German Muñoz",
+  "license": "ISC"
+}
